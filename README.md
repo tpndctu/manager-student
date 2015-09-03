@@ -25,6 +25,7 @@
   4. Create project Spring boot + maven + Hibernate + Angularjs (assign Nhan Dinh)
   5. Config load balancing Tomcat + Nginx (assign Nhan Dinh)
 
+##### Reference: [Link](https://www.digitalocean.com/community/tutorials/how-to-set-up-mysql-master-master-replication)
 Thanks,  
 Thuan Pham, Nhan Dinh.
 
