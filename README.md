@@ -16,6 +16,7 @@
 
 ##### Solution:
 
+![Flowers](/images/model.png)
 
 ##### Task (Report: 8h- 11/09/2015):
   1. Config replication with Mysql Server (assign Thuan Pham)
