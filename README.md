@@ -6,8 +6,8 @@
   3. Spring security
   4. Angular JS
   5. Maven
-  6. Hibernate
-  7. Tool: Eclipse 
+  6. JPA
+  7. Tool: Eclipse (with STS plugin) 
   
 ##### Server:
   1. Tomcat server 
@@ -22,7 +22,7 @@
   1. Config replication with Mysql Server (assign Thuan Pham)
   2. Time replication of mysql (assign Thuan Pham)
   3. Performance of two server mysql when insert, update data (assign Thuan Pham)
-  4. Create project Spring boot + maven + Hibernate + Angularjs (assign Nhan Dinh)
+  4. Create project Spring boot + maven + JPA + Angularjs (assign Nhan Dinh)
   5. Config load balancing Tomcat + Nginx (assign Nhan Dinh)
 
 ##### Reference: [Link](https://www.digitalocean.com/community/tutorials/how-to-set-up-mysql-master-master-replication)
